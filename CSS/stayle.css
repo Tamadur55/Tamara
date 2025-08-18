@@ -528,7 +528,7 @@ transform: translate(-50%,-50%);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(./img/benefits.jpg);
+  background-image: url(../img/benefits.jpg);
   background-size: cover;
   transform: rotateY(180deg);
   backface-visibility: hidden;
@@ -546,7 +546,7 @@ transform: translate(-50%,-50%);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(./img/benefits.jpg);
+  background-image: url(../img/benefits.jpg);
   background-size: cover;
   transform: rotateY(180deg);
   backface-visibility: hidden;
@@ -564,7 +564,7 @@ transform: translate(-50%,-50%);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(./img/benefits.jpg);
+  background-image: url(../img/benefits.jpg);
   background-size: cover;
   transform: rotateY(180deg);
   backface-visibility: hidden;
@@ -582,7 +582,7 @@ transform: translate(-50%,-50%);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(./img/benefits.jpg);
+  background-image: url(../img/benefits.jpg);
   background-size: cover;
   transform: rotateY(180deg);
   backface-visibility: hidden;
@@ -719,7 +719,7 @@ margin: auto;
 }
 .div-pag4 {
   background-color: aqua;
-  background-image: url(../img/boona.png);
+  background-image: url(../img/boona.PNG);
   background-position: center;
   background-size: cover;
 }.div-pag3 {
@@ -985,6 +985,7 @@ text-align: center;
            
 
           }
+
 
 
 
