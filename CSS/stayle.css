@@ -719,22 +719,22 @@ margin: auto;
 }
 .div-pag4 {
   background-color: aqua;
-  background-image: url(/img/boona.png);
+  background-image: url(../img/boona.png);
   background-position: center;
   background-size: cover;
 }.div-pag3 {
   background-color: aqua;
-  background-image: url(/img/6505.jpg_wh860.jpg);
+  background-image: url(../img/6505.jpg_wh860.jpg);
   background-position: center;
   background-size: cover;
 }.div-pag2 {
   background-color: aqua;
-  background-image: url(/img/6507.jpg_wh860.jpg);
+  background-image: url(../img/6507.jpg_wh860.jpg);
   background-position: center;
   background-size: cover;
 }.div-pag1 {
   background-color: aqua;
-  background-image: url(/img/OIP\ \(17\).jpeg);
+  background-image: url(../img/OIP\ \(17).jpeg);
   background-position: center;
   background-size: cover;
 }
@@ -985,5 +985,6 @@ text-align: center;
            
 
           }
+
 
 
